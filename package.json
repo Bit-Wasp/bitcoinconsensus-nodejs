@@ -1,0 +1,16 @@
+
+{
+  "name": "bitcoinconsensus",
+  "version": "0.1.0",
+  "description": "Node.js addon for libbitcoinconsensus shared library from Bitcoin Core",
+  "main": "hello.js",
+  "private": true,
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "nan": "^2.0.0"
+  },
+  "scripts": {
+    "test": "node hello.js"
+  },
+  "gypfile": true
+}
