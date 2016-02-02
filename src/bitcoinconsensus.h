@@ -4,7 +4,6 @@
 #include <node.h>
 #include <nan.h>
 
-
 NAN_METHOD(version);
 NAN_METHOD(verifyScript);
 
